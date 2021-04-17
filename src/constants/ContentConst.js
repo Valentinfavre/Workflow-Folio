@@ -8,7 +8,7 @@ export const contentState = {
 		},
 		{
 			"name": 'CareerBtn',
-			"text": 'Exp. ProfessionelTab',
+			"text": 'Exp. Professionel',
 			"tab": 'ProfessionelTab'
 		},
 		{
